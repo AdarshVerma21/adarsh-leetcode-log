@@ -216,6 +216,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -250,6 +251,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0009-palindrome-number](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
 | ------- |
