@@ -195,6 +195,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0027-remove-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0136-single-number) |
@@ -207,6 +208,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0001-two-sum](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
@@ -233,6 +235,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0242-valid-anagram) |
@@ -243,6 +246,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0242-valid-anagram) |
 ## Stack
