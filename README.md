@@ -282,6 +282,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0155-min-stack) |
 ## Linked List
 |  |
 | ------- |
@@ -345,6 +346,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0706-design-hashmap) |
 ## Hash Function
