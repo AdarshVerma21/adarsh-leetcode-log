@@ -393,12 +393,19 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
