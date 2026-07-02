@@ -277,6 +277,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0049-group-anagrams](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0567-permutation-in-string) |
@@ -309,6 +310,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0066-plus-one](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0171-excel-sheet-column-number) |
 ## Greedy
 |  |
 | ------- |
