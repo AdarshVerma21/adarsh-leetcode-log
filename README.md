@@ -221,6 +221,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0049-group-anagrams](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0242-valid-anagram) |
@@ -243,6 +244,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0088-merge-sorted-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -295,6 +297,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0021-merge-two-sorted-lists](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0706-design-hashmap) |
