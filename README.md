@@ -326,6 +326,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -348,6 +349,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0912-sort-an-array) |
 ## Counting
