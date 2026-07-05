@@ -281,6 +281,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0125-valid-palindrome](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -414,6 +415,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0110-balanced-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -424,6 +426,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0110-balanced-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -435,6 +438,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0110-balanced-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -445,4 +449,8 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
