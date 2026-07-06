@@ -453,4 +453,8 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0257-binary-tree-paths) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
