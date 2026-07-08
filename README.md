@@ -206,6 +206,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -224,6 +225,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0160-intersection-of-two-linked-lists](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
@@ -404,6 +406,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0567-permutation-in-string) |
 ## Tree
