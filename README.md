@@ -418,6 +418,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0257-binary-tree-paths) |
@@ -429,6 +430,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0101-symmetric-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0257-binary-tree-paths) |
@@ -441,6 +443,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0257-binary-tree-paths) |
@@ -450,6 +453,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0100-same-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
