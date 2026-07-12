@@ -294,6 +294,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0144-binary-tree-preorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0225-implement-stack-using-queues) |
 ## Linked List
 |  |
 | ------- |
@@ -366,6 +367,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -466,4 +468,8 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0196-delete-duplicate-emails) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
