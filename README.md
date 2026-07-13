@@ -224,6 +224,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0141-linked-list-cycle](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0242-valid-anagram) |
@@ -282,6 +283,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0058-length-of-last-word](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0424-longest-repeating-character-replacement) |
