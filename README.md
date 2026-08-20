@@ -213,6 +213,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0912-sort-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -260,6 +261,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
@@ -274,6 +276,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0912-sort-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -328,6 +331,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0011-container-with-most-water) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String Matching
 |  |
 | ------- |
@@ -417,6 +421,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0219-contains-duplicate-ii](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0567-permutation-in-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
 | ------- |
@@ -478,4 +483,8 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0225-implement-stack-using-queues) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
