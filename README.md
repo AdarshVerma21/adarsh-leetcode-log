@@ -213,6 +213,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 | [0705-design-hashset](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/0912-sort-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/adarsh-verma-ai/adarsh-leetcode-log/tree/master/1929-concatenation-of-array) |
 ## Hash Table
